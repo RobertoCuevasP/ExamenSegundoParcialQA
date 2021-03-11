@@ -6,16 +6,16 @@ webUI/todoist/SelectTheme.java
  webUI.todoist.SelectTheme
 apiRest/runner/MyStepsDefs.java
  apiRest.runner.MyStepsDefs
-webUI/testClean/Ejercicio6.java
- webUI.testClean.Ejercicio6
+webUI/ejercicio5/TestBaseTodoLy.java
+ webUI.ejercicio5.TestBaseTodoLy
 webUI/todoist/RegisterSection.java
  webUI.todoist.RegisterSection
 apiRest/configuration/Config.java
  apiRest.configuration.Config
 apiRest/factoryRequest/Patch.java
  apiRest.factoryRequest.Patch
-webUI/testClean/Ejercicio4.java
- webUI.testClean.Ejercicio4
+webUI/ejercicios4y6/TestBaseTodoist.java
+ webUI.ejercicios4y6.TestBaseTodoist
 webUI/factoryBrowser/IBrowser.java
  webUI.factoryBrowser.IBrowser
 webUI/factoryBrowser/Edge.java
@@ -66,19 +66,13 @@ apiRest/factoryRequest/RequestInformation.java
  apiRest.factoryRequest.RequestInformation
 webUI/factoryBrowser/FactoryBrowser.java
  webUI.factoryBrowser.FactoryBrowser
-webUI/testClean/Ejercicio5.java
- webUI.testClean.Ejercicio5
-apiRest/factoryRequest/FactoryRequest.java
- apiRest.factoryRequest.FactoryRequest
-webUI/ejercicio5/TestBaseTodoLy.java
- webUI.ejercicio5.TestBaseTodoLy
 webUI/ejercicio5/Ejercicio5.java
  webUI.ejercicio5.Ejercicio5
-webUI/ejercicios4y6/TestBaseTodoist.java
- webUI.ejercicios4y6.TestBaseTodoist
-webUI/ejercicios4y6/Ejercicio4.java
- webUI.ejercicios4y6.Ejercicio4
-webUI/todoist/LeftSection.java
- webUI.todoist.LeftSection
+apiRest/factoryRequest/FactoryRequest.java
+ apiRest.factoryRequest.FactoryRequest
 webUI/ejercicios4y6/Ejercicio6.java
  webUI.ejercicios4y6.Ejercicio6
+webUI/todoist/LeftSection.java
+ webUI.todoist.LeftSection
+webUI/ejercicios4y6/Ejercicio4.java
+ webUI.ejercicios4y6.Ejercicio4

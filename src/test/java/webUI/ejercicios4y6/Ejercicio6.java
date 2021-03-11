@@ -14,7 +14,7 @@ public class Ejercicio6 extends TestBaseTodoist{
 
     String name = "Roberto Cuevas Pinto";
     String newName = "Roberto Pablo Cuevas Pinto";
-    String email = "robertocuevaspinto2@upb.com";
+    String email = "robertocuevaspinto3@upb.com";
     String pwd = "12345678";
 
     @Test
